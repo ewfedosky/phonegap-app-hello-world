@@ -6,7 +6,7 @@
         id        = "com.phonegap.blackhawk-cc-wine"
         version   = "1.0.0">
 
-    <name>HelloWorld</name>
+    <name>BlackhawkWine</name>
 
     <description>
         Interactive wine menu for Blackhawk Country Club
